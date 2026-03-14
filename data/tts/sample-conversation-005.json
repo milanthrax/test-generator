@@ -1,0 +1,15 @@
+[
+  { "speaker": "Grandfather",       "text": "Come in, come in! Your grandmother and I have been waiting all morning. Let me look at you — you've grown a foot since Christmas!" },
+  { "speaker": "Pre-teen Boy",      "text": "Hi Grandpa! I missed you. Grandma said you have a surprise for us." },
+  { "speaker": "Grandmother",       "text": "I might have said something like that. Come to the kitchen, I just took a pie out of the oven." },
+  { "speaker": "Small Girl",        "text": "Is it apple pie? Please say it's apple pie!" },
+  { "speaker": "Grandmother",       "text": "What other kind of pie would I make? Of course it's apple, sweetheart." },
+  { "speaker": "Grandfather",       "text": "But before the pie, I want to show you something in the garage. I found my old train set in a box and I thought you two might want to set it up." },
+  { "speaker": "Pre-teen Boy",      "text": "A real train set? Like with tracks and a locomotive?" },
+  { "speaker": "Grandfather",       "text": "The very one your father used to play with when he was your age. Still works beautifully." },
+  { "speaker": "Small Girl",        "text": "Can I drive the train, Grandpa?" },
+  { "speaker": "Grandfather",       "text": "You can be the conductor. Most important job on the whole railway." },
+  { "speaker": "Grandmother",       "text": "I'll have the pie and milk ready by the time you're done playing. Don't be too long, it's best warm." },
+  { "speaker": "Pre-teen Boy",      "text": "This is the best Saturday ever." },
+  { "speaker": "Grandfather",       "text": "Ha. Every Saturday you come to visit is the best Saturday, if you ask me." }
+]

@@ -1,0 +1,13 @@
+[
+  { "speaker": "News Anchor",       "text": "Good evening. Tonight on the programme: a breakthrough in renewable energy, a record at the box office, and an extraordinary story of a dog who found his way home across three hundred miles. I'm joined tonight by our science correspondent and our entertainment reporter. Let's start with the big energy story." },
+  { "speaker": "Professional Woman", "text": "Thanks. Researchers at a university in the Netherlands have announced a new type of solar panel that operates at twice the efficiency of anything currently on the market. If it can be manufactured at scale, experts say it could cut household electricity costs by up to forty percent within the decade." },
+  { "speaker": "News Anchor",       "text": "Remarkable. And there's talk of government investment?" },
+  { "speaker": "Professional Woman", "text": "Several governments have already expressed interest, yes. The EU is reportedly preparing a funding package for a pilot programme later this year." },
+  { "speaker": "News Anchor",       "text": "Something to watch closely. Now, turning to entertainment — the weekend box office numbers are in." },
+  { "speaker": "College Male",      "text": "It was a historic weekend. The animated sequel we've all been waiting for broke the all-time opening weekend record, bringing in over three hundred and fifty million dollars globally in just three days." },
+  { "speaker": "News Anchor",       "text": "Incredible numbers. Did the critics see this coming?" },
+  { "speaker": "College Male",      "text": "Honestly, most of them predicted a strong opening, but no one had figures quite this high on their radar. The review scores are stellar too, which suggests the legs will be there for several more weeks." },
+  { "speaker": "News Anchor",       "text": "And finally, the story that has captured hearts everywhere this week. A golden retriever named Biscuit, who got separated from his family during a camping trip in Montana, turned up on their doorstep in Colorado eleven weeks later — having walked over three hundred miles." },
+  { "speaker": "Professional Woman", "text": "The family was completely in tears. They had given up hope two months ago. The dog was thin but healthy, and according to the vet, seems none the worse for his adventure." },
+  { "speaker": "News Anchor",       "text": "A reminder of the extraordinary bond between people and their pets. That is all for tonight's programme. Thank you for joining us." }
+]

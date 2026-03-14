@@ -2,7 +2,10 @@ module github.com/milanthrax/test-generator
 
 go 1.25.0
 
-require google.golang.org/genai v1.49.0
+require (
+	golang.org/x/image v0.36.0
+	google.golang.org/genai v1.49.0
+)
 
 require (
 	cloud.google.com/go v0.116.0 // indirect
@@ -23,7 +26,6 @@ require (
 	go.opentelemetry.io/otel/metric v1.39.0 // indirect
 	go.opentelemetry.io/otel/trace v1.39.0 // indirect
 	golang.org/x/crypto v0.48.0 // indirect
-	golang.org/x/image v0.36.0 // indirect
 	golang.org/x/net v0.50.0 // indirect
 	golang.org/x/sys v0.41.0 // indirect
 	golang.org/x/text v0.34.0 // indirect

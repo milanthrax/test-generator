@@ -1,0 +1,16 @@
+[
+  { "speaker": "Motherly Voice",    "text": "Alright you two, dinner is on the table! Come sit down before it gets cold." },
+  { "speaker": "Toddler Boy",       "text": "Mama! Mama! I drawed a dinosaur today at school!" },
+  { "speaker": "Motherly Voice",    "text": "You drew a dinosaur? I can't wait to see it. Sit up properly in your chair first, okay?" },
+  { "speaker": "Toddler Girl",      "text": "I drawed one too! Mine is pinker." },
+  { "speaker": "Motherly Voice",    "text": "A pink dinosaur — how beautiful. Now both of you, eat your vegetables before anything else." },
+  { "speaker": "Toddler Boy",       "text": "I don't wike broccoli." },
+  { "speaker": "Motherly Voice",    "text": "I know you don't like it, but it makes you big and strong. Three bites, that's the deal." },
+  { "speaker": "Toddler Girl",      "text": "I like broccoli! It looks like tiny trees." },
+  { "speaker": "Toddler Boy",       "text": "It does look like trees... okay. One two free!" },
+  { "speaker": "Motherly Voice",    "text": "Good job, sweetheart. See? That wasn't so bad." },
+  { "speaker": "Toddler Boy",       "text": "Can I have ice cream after?" },
+  { "speaker": "Motherly Voice",    "text": "Finish your whole plate and we'll talk about it." },
+  { "speaker": "Toddler Girl",      "text": "I'm gonna finish first! I'm gonna get two ice creams!" },
+  { "speaker": "Motherly Voice",    "text": "One ice cream each. Now eat, both of you." }
+]

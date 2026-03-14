@@ -1,0 +1,12 @@
+[
+  { "speaker": "Strict Teacher",  "text": "Alright everyone, settle down. Today we are going to review last night's homework. Can anyone tell me what the capital of France is?" },
+  { "speaker": "Small Boy",       "text": "I know! I know! It's Paris, Miss!" },
+  { "speaker": "Strict Teacher",  "text": "Very good, Daniel. And can you also tell me which river runs through it?" },
+  { "speaker": "Small Boy",       "text": "Umm... the Seine?" },
+  { "speaker": "Strict Teacher",  "text": "Correct. Excellent. Now, Emily, what about the capital of Germany?" },
+  { "speaker": "Small Girl",      "text": "Berlin." },
+  { "speaker": "Strict Teacher",  "text": "Perfect. I am pleased to see that you both studied. For tomorrow I want you to learn three more European capitals. Any questions?" },
+  { "speaker": "Small Boy",       "text": "Do we have to write them down or just memorise them?" },
+  { "speaker": "Strict Teacher",  "text": "Both. You will write them in your notebooks and be ready to recite them out loud." },
+  { "speaker": "Small Girl",      "text": "Yes, Miss." }
+]

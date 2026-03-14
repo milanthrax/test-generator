@@ -5,7 +5,7 @@ type AudioFormat string
 const (
 	MP3 AudioFormat = "mp3"
 	WAV AudioFormat = "wav"
-	OGG AudioFormat = "ogg"
+	M4A AudioFormat = "m4a"
 )
 
 // AudioFile references a spoken audio clip used in listening questions.

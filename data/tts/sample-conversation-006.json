@@ -1,0 +1,15 @@
+[
+  { "speaker": "Professional Man",   "text": "Morning everyone. Let's keep today's standup quick. Sarah, you're up first." },
+  { "speaker": "Professional Woman", "text": "Morning. I finished the API integration yesterday. Running final tests now, should be ready to merge by noon." },
+  { "speaker": "Professional Man",   "text": "Great. Any blockers?" },
+  { "speaker": "Professional Woman", "text": "One — I need the updated credentials for the staging environment. I sent a request yesterday but haven't heard back." },
+  { "speaker": "Middle-aged Man",    "text": "That's on me, I'll get those to you before this call ends. Sorry for the delay." },
+  { "speaker": "Professional Man",   "text": "Thanks, David. Okay, what about the dashboard redesign?" },
+  { "speaker": "College Female",     "text": "I've got the new layout done in Figma and shared the link in the design channel last night. I'm waiting on feedback before I hand it off to dev." },
+  { "speaker": "Professional Man",   "text": "I left some comments this morning. Nothing major — mostly the colour palette on the mobile breakpoint." },
+  { "speaker": "College Female",     "text": "Oh perfect, I'll take a look right after this." },
+  { "speaker": "Middle-aged Man",    "text": "Also, heads up — the client wants to move the demo from Thursday to Wednesday afternoon. Does that cause problems for anyone?" },
+  { "speaker": "Professional Woman", "text": "I can make Wednesday work as long as the merge is done by tomorrow." },
+  { "speaker": "College Female",     "text": "Same here. I just need to finalise one more screen." },
+  { "speaker": "Professional Man",   "text": "Alright. Wednesday it is. I'll update the calendar invite. Good work everyone, let's have a smooth week." }
+]

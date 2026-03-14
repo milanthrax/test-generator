@@ -1,0 +1,13 @@
+[
+  { "speaker": "Strict Teacher",    "text": "Good morning, class. Before we begin today's lesson, I'd like to introduce a new student. Everyone, say hello to Marcus." },
+  { "speaker": "Pre-teen Boy",      "text": "Hi everyone. I just moved here from Chicago." },
+  { "speaker": "Strict Teacher",    "text": "Welcome, Marcus. You can take the empty seat next to Sofia. Now, open your textbooks to chapter seven." },
+  { "speaker": "Pre-teen Girl",     "text": "Miss, I forgot my textbook at home. Can I share with Marcus?" },
+  { "speaker": "Strict Teacher",    "text": "That is your third time this week, Sofia. You will stay after class today. Yes, you may share for now." },
+  { "speaker": "Pre-teen Boy",      "text": "It's okay, I don't mind sharing." },
+  { "speaker": "Pre-teen Girl",     "text": "Thanks, Marcus. I like your backpack by the way." },
+  { "speaker": "Strict Teacher",    "text": "Sofia. Eyes on the board, please." },
+  { "speaker": "Pre-teen Girl",     "text": "Sorry, Miss." },
+  { "speaker": "Pre-teen Boy",      "text": "I'll help you catch up on the chapter at lunch if you want." },
+  { "speaker": "Strict Teacher",    "text": "That is very kind, Marcus. Now, chapter seven. The American Revolution. Who can tell me what year it began?" }
+]

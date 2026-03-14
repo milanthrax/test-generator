@@ -1,0 +1,16 @@
+[
+  { "speaker": "Middle-aged Man",   "text": "Alright, it's Friday night. Movie time. What does everyone want to watch?" },
+  { "speaker": "Small Girl",        "text": "The one with the talking animals! I want the one with the talking animals!" },
+  { "speaker": "Pre-teen Boy",      "text": "That's so babyish. Can we please watch something with action? There's a new superhero movie on the streaming app." },
+  { "speaker": "Small Girl",        "text": "I don't like superheroes. They're too loud and scary." },
+  { "speaker": "Middle-aged Man",   "text": "Okay, okay. Let's not fight. What about an adventure movie? Something everyone can enjoy." },
+  { "speaker": "Pre-teen Boy",      "text": "Adventure is fine I guess. As long as it's not a cartoon." },
+  { "speaker": "Small Girl",        "text": "But cartoons are the best!" },
+  { "speaker": "Middle-aged Man",   "text": "What if we watch that new animated film about the explorer kid? It has adventure and it's animated. Win win." },
+  { "speaker": "Pre-teen Boy",      "text": "Is it at least rated PG? I don't want to watch something for five-year-olds." },
+  { "speaker": "Small Girl",        "text": "I'm not five, I'm seven!" },
+  { "speaker": "Middle-aged Man",   "text": "It's rated PG. It actually got really good reviews. And I'll make popcorn." },
+  { "speaker": "Pre-teen Boy",      "text": "Fine. But I get to pick next Friday." },
+  { "speaker": "Small Girl",        "text": "Yay! Can I have extra butter on the popcorn, Daddy?" },
+  { "speaker": "Middle-aged Man",   "text": "Extra butter it is. Go grab the blankets while I set it up." }
+]
